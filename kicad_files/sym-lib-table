@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "kiwikit-rpi-pico-rescue")(type "Legacy")(uri "${KIPRJMOD}/kiwikit-rpi-pico-rescue.lib")(options "")(descr ""))
+  (lib (name "R40")(type "Legacy")(uri "${KIPRJMOD}/R40.lib")(options "")(descr ""))
+)
